@@ -3,7 +3,7 @@
 * [Documentation](https://baseplate.readthedocs.io/en/stable/)
 * [Contribution Guidelines](https://github.com/reddit/baseplate.py/blob/develop/CONTRIBUTING.md)
 
-Branch-Change-2
+Branch-Change-3
 
 
 It's much easier to manage a bunch of services when they all have the same
