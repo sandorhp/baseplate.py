@@ -3,6 +3,9 @@
 #
 # See install_requires and extras_require in setup.py for the range of versions
 # supported.
+
+#Sandor's requirement
+
 -r requirements-transitive.txt
 black==21.10b0
 boto3==1.21.20
